@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : DIVYA P
-Roll no : 212223040044
-Date of experiment : 19/08/2024
+Name : L yagnesh kumar reddy
+Roll no : 212223100024
+Date of experiment : 23-08-2024
 
 
 
