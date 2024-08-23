@@ -1,5 +1,5 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : L yagnesh kumar reddy
+Name : L yagnesh kumar reddy 
 Roll no : 212223100024
 Date of experiment : 23-08-2024
 
